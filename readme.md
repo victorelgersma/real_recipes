@@ -12,3 +12,8 @@ index.html file goes under public/
 hugo serve
 ```
 
+| Description | Url                                        |
+| ----------- | ------------------------------------------ |
+| deployment  | https://real-recipes.netlify.app           |
+| repository  | https://github.com/victorelgersma/recipes2 |
+|             |                                            |
