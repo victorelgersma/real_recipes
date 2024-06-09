@@ -12,6 +12,12 @@ index.html file goes under public/
 hugo serve
 ```
 
+# To do
+
+### recipes to add
+
+- grilled red peppers
+
 # Useful links
 
 | Description       | Url                                                 |
