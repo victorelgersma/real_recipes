@@ -1,0 +1,7 @@
+{{- with .Page.Params.tags -}}
+  <ul>
+    {{- range . }}
+      <li><a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+    {{- end }}
+  </ul>
+{{- end }}

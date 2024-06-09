@@ -25,3 +25,11 @@ hugo serve
 | deployment link   | https://real-recipes.netlify.app                    |
 | repository        | https://github.com/victorelgersma/recipes2          |
 | manage deployment | https://app.netlify.com/sites/real-recipes/overview |
+
+# Resources
+
+| Description       | Url                                       |
+| ----------------- | ----------------------------------------- |
+| templates in hugo | https://gohugo.io/templates/introduction/ |
+|                   |                                           |
+|                   |                                           |
