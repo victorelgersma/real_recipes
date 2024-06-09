@@ -17,7 +17,7 @@ dressing: olive oil, lemon, vinegar, salt, pepper.
 
 ta-da!
 
-![picture](/Shopska-Salad_9.jpg)
+![picture](https://www.themediterraneandish.com/wp-content/uploads/2023/06/Shopska-Salad_9.jpg)
 
 # Sources
 
