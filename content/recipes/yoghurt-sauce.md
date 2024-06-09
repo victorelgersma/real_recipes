@@ -1,7 +1,7 @@
-+++ title = 'Red Lentil Dahl' tags = ['carbohydrates', 'indian'] +++
++++ title = 'Yoghurt Sauce' tags = ['sauce'] +++
 
 
-Garlic
-Dill 
-Lemon
-Yoghurt
+- Garlic
+- Dill 
+- Lemon
+- Yoghurt
