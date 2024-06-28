@@ -5,4 +5,4 @@ tags = ['dish']
 
 - grilled vegetables
 - couscous (just pour boiling water and let settle)
-- yoghurt sauce
+- [yoghurt sauce](https://real-recipes.netlify.app/recipes/yoghurt-sauce/)
