@@ -2,3 +2,10 @@ baseURL: https://real-recipes.netlify.app
 languageCode: en-us
 title: Real Recipes
 theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: "tags"
+      name: "Tags"
+      weight: 100
+      url: "/tags/"

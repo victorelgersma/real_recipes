@@ -1,24 +1,22 @@
-# Build site:
+# Personify
 
-```
+## Develop
+
+Build site:
+
+```zsh
 hugo
 ```
 
 index.html file goes under public/
 
-# Run development server:
+Run development server:
 
-```
+```zsh
 hugo serve
 ```
 
-# To do
-
-### recipes to add
-
-- grilled red peppers
-
-# Useful links
+## Useful links
 
 | Description       | Url                                                 |
 | ----------------- | --------------------------------------------------- |
@@ -26,10 +24,14 @@ hugo serve
 | repository        | https://github.com/victorelgersma/recipes2          |
 | manage deployment | https://app.netlify.com/sites/real-recipes/overview |
 
-# Resources
+## Resources
 
 | Description       | Url                                       |
 | ----------------- | ----------------------------------------- |
 | templates in hugo | https://gohugo.io/templates/introduction/ |
 |                   |                                           |
-|                   |                                           |
+
+## Reading
+
+[Papermod Theme](https://github.com/adityatelange/hugo-PaperMod)
+[Templates in hugo](https://gohugo.io/templates/introduction/)
