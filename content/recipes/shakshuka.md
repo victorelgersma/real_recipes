@@ -1,12 +1,12 @@
 +++
 title = 'Shakshuka'
-tags = ['fast']
+tags = ['easy']
 +++
 
 - Don't use a cast iron skillet
 - Preheat olive oil over medium heat
 - Sweat the onions
- - Sautee over medium-high heat
+- Sautee over medium-high heat
 - add garlic
 - toast spices (cumin)
 - add can of crushed tomatoes
@@ -19,15 +19,15 @@ tags = ['fast']
 - when the whites have set, take off stove
 
 - toppings
-    - crumbled feta cheese
-    - honey
-    - cilantro
+  - crumbled feta cheese
+  - honey
+  - cilantro
 
 optional:
+
 - roasted red peppers?
 
+### Links
 
- ### Links
-
- [Basics with Babish](https://www.youtube.com/watch?v=SjCkW-oAFQ8)
- [Cookie and kate](https://cookieandkate.com/foolproof-shakshuka-recipe/)
+[Basics with Babish](https://www.youtube.com/watch?v=SjCkW-oAFQ8)
+[Cookie and kate](https://cookieandkate.com/foolproof-shakshuka-recipe/)

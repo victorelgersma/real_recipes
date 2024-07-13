@@ -1,6 +1,6 @@
 +++
 title = 'Grilled veggies with couscous'
-tags = ['dish']
+tags = ['easy']
 +++
 
 - grilled vegetables

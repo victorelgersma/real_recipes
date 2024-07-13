@@ -6,6 +6,6 @@ theme: ["PaperMod"]
 menu:
   main:
     - identifier: "tags"
-      name: "Tags"
+      name: "By Tag"
       weight: 100
       url: "/tags/"
