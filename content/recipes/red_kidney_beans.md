@@ -4,7 +4,7 @@ tags = ['meal prep']
 +++
 
 - Soak beans for at least 4.5 hours
-- Boil them for 10 minutes
+- Boil them for 60 minutes
 
 ## Sources
 
