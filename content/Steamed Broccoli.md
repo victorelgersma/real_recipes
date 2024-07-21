@@ -7,6 +7,10 @@ tags = ['vegetable', 'meal prep']
 
 - cut the broccoli into bite-sized florets
   (you can also peel, dice, and steam the stalk)
+- add it to a rice cooker
+- if no rice cooker:
+  - add it to asteamer basket and place it in a saucepan filled with 1 inch of water
+- steam until broccoli is tender and bright green.
 - salt, pepper, and a little bit of lemon juice
 
 ## Source

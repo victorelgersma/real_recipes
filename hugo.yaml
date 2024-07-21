@@ -9,6 +9,10 @@ menu:
       name: "By Tag"
       weight: 100
       url: "/tags/"
+    - identifier: "search"
+      name: "Search"
+      weight: 200
+      url: "/search/"
 
 outputs:
   home:
