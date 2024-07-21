@@ -9,3 +9,9 @@ menu:
       name: "By Tag"
       weight: 100
       url: "/tags/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
