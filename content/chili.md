@@ -8,7 +8,7 @@ serves: "4"
 
 - 1 large onion, chopped
 - garlic, minced
-- chili powder, cumin, cinammon
+- chili powder, cumin, cinnamon
 - 400g chopped tomatoes
 - tomato puree
 - beef stock cube
@@ -20,7 +20,7 @@ serves: "4"
 - 5 mins later, pour in
   - 1 tsp chili powder
   - 1 tsp cumin
-  - 1 tsp cinammon
+  - 1 tsp cinnamon
   - 500 g minced beef
 - when the beef is browned:
   - add 400 grams chopped tomatoes
