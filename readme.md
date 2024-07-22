@@ -1,4 +1,6 @@
-# Personify
+# Real Recipes
+
+A place for all my favorite recipes. I learned to spell "cinnamon" by doing this project.
 
 ## Develop
 
