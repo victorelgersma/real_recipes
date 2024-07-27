@@ -1,6 +1,6 @@
 baseURL: https://real-recipes.netlify.app
 languageCode: en-us
-title: 🍽️ Real Recipes
+title: Real Recipes
 theme: ["PaperMod"]
 
 menu:
