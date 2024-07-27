@@ -1,0 +1,28 @@
+{{ $featuredRecipes := where .Site.RegularPages "Params.featured" true }} {{ if
+gt (len $featuredRecipes) 0 }} {{ $randomRecipe := index (shuffle
+$featuredRecipes) 0 }}
+<div class="recipe-card">
+  {{ with $randomRecipe.Params.image }}
+  <img src="{{ . }}" alt="{{ $randomRecipe.Title }}" class="recipe-image" />
+  {{ end }}
+  <h3><a href="{{ $randomRecipe.Permalink }}">{{ $randomRecipe.Title }}</a></h3>
+</div>
+{{ else }}
+<p>No featured recipes found.</p>
+{{ end }}
+
+<style>
+  .recipe-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .recipe-card img.recipe-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+</style>
