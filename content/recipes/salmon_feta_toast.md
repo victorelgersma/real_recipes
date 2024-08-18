@@ -1,5 +1,5 @@
 ---
-title: "Salmon & Feta on Toas"
+title: "Salmon & Feta on Toast"
 tags: ["snack"]
 ---
 
