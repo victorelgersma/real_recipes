@@ -23,5 +23,5 @@ params:
   homeInfoParams:
     Title: "Real Recipes"
     Content: >
-      👋 Welcome to real recipes!
+      👋 Welcome!
       - **Real Recipes**  is designed to be a clean and simple but fast and responsive recipe site based on the Hugo PaperMod theme.
