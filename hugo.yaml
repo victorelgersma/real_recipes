@@ -10,7 +10,7 @@ menu:
       weight: 100
       url: "/tags/"
     - identifier: "search"
-      name: "search"
+      name: "earch"
       weight: 200
       url: "/search/"
 

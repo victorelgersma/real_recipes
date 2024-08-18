@@ -1,7 +1,11 @@
 +++
-title = 'Shopska Salata'
+title = 'Shopska Salata (Greek-ish Salad)'
 tags = ['salad', 'bulgarian', 'meal prep']
 +++
+
+![picture](https://www.themediterraneandish.com/wp-content/uploads/2023/06/Shopska-Salad_9.jpg)
+
+## Ingredients
 
 - cucumbers
 - feta
@@ -18,5 +22,3 @@ dressing: olive oil, lemon, vinegar, salt, pepper.
 # Sources
 
 https://www.themediterraneandish.com/shopska-salad/
-
-![picture](https://www.themediterraneandish.com/wp-content/uploads/2023/06/Shopska-Salad_9.jpg)
