@@ -3,7 +3,17 @@ title = 'Shakshuka'
 tags = ['easy']
 +++
 
-- Don't use a cast iron skillet
+## Ingredients
+
+- 1 onion
+- 2 cloves of garlic
+- 1 tbsp of olive oil
+- 1 tsp of cumin
+- 1 can of crushed tomatoes
+- 5 eggs
+
+## Instructions
+
 - Preheat olive oil over medium heat
 - Sweat the onions
 - Sautee over medium-high heat
@@ -18,14 +28,11 @@ tags = ['easy']
 
 - when the whites have set, take off stove
 
-- toppings
+- toppings (optional)
   - crumbled feta cheese
   - honey
   - cilantro
-
-optional:
-
-- roasted red peppers?
+  - roasted red peppers?
 
 ### Links
 
