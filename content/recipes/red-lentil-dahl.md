@@ -1,5 +1,5 @@
 +++
-title = 'Easy red Lentil Dahl'
+title = 'Easy Red Lentil Dahl'
 tags = ['carbohydrates', 'indian']
 +++
 
