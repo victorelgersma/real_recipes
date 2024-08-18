@@ -1,6 +1,6 @@
 # Real Recipes
 
-A place for all my favorite recipes. I learned to spell "cinnamon" by doing this project.
+A no-nonsense recipe site built with Hugo using the PaperMod theme.
 
 ## Develop
 
@@ -9,6 +9,10 @@ Build site:
 ```zsh
 hugo
 ```
+
+add a new post:
+
+hugo new content content/posts/my-first-post.md
 
 index.html file goes under public/
 
