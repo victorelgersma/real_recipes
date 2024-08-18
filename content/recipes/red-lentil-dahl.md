@@ -3,9 +3,9 @@ title = 'Easy red Lentil Dahl'
 tags = ['carbohydrates', 'indian']
 +++
 
-## Instructions
+## Ingredients
 
-- Olive Oil
+- Olive oil
 - Onions
 - Garlic
 - Turmeric
@@ -13,12 +13,18 @@ tags = ['carbohydrates', 'indian']
 - Garam masala
 - Red split lentils
 - Veggie broth
-- Let it simmer
-- Coconut milk/yoghurt
-- Add tomatoe sauce
-- Lemon juice, salt, pepper
-- ? Sesame seeds
 
+## Instructions
+
+- add olive oil to a pan
+- add onions, garlic, turmeric, cumin, garam masala, red split lentils, veggie broth in that order.
+- let it simmer for 10 minutes
+- add Coconut milk/yoghurt
+- simmer for another 10 minutes
+- Add tomato sauce
+- Lemon juice, salt, pepper
+- Optional: add Sesame seeds
 
 ## Sources
+
 [Bianca Zapatka](https://www.youtube.com/watch?v=BPpEswZ0eMk)
