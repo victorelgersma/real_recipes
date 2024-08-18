@@ -6,11 +6,11 @@ theme: ["PaperMod"]
 menu:
   main:
     - identifier: "tags"
-      name: "By Tag"
+      name: "tags"
       weight: 100
       url: "/tags/"
     - identifier: "search"
-      name: "Search"
+      name: "search"
       weight: 200
       url: "/search/"
 

@@ -2,6 +2,12 @@
 
 A no-nonsense recipe site built with Hugo using the PaperMod theme.
 
+## To do
+
+- [ ] add tags to posts on the front page
+- [ ] add a title like "all recipes" to the front page
+- [ ] add a link to the intro page to
+
 ## Develop
 
 Build site:
