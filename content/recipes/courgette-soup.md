@@ -24,7 +24,8 @@ date = 2024-08-18T09:32:41+01:00
 - add 1 liter of water and the grilled courgettes, and two bouillon cubes.
 - let simmer for 15 minutes.
 - add parsley
-- blend the mixture.
+- blend the mixture with a blender
+- garnish: yoghurt and few pieces of sliced grilled courgette
 
 ## Source
 
