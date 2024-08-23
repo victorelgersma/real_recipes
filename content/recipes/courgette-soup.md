@@ -1,6 +1,7 @@
 +++
 title = 'Courgette Soup with Mint and Yoghurt'
 date = 2024-08-18T09:32:41+01:00
+tags = ['soup']
 +++
 
 ## Ingredients
