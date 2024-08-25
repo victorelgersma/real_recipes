@@ -1,7 +1,11 @@
 +++ 
 title = 'Baked Sweet potato' 
-tags = ['easy', 'meal prep', 'carbs']
+tags = ['easy', 'side dish', 'carbs']
 +++
 
-- Use a fork to poke several holes all over each sweet potato. This allows steam to escape during baking.
-- bake for 45-60 minutes @200C
+- brush sweet potato with olive oil
+- prick the sweet potatoes 3-4 times with a fork.
+- bake for 45-60 minutes at 200C
+- split open and garnish, two options:
+  - 1. salt, pepper, butter, and honey, parsley, and lemon juice
+  - 2. dollop of sour cream and chives.
