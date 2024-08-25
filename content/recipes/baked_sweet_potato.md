@@ -1,6 +1,6 @@
 +++ 
 title = 'Baked Sweet potato' 
-tags = ['easy', 'meal prep'] 
+tags = ['easy', 'meal prep', 'carbs']
 +++
 
 - Use a fork to poke several holes all over each sweet potato. This allows steam to escape during baking.
