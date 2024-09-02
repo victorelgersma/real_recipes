@@ -6,7 +6,7 @@ tags = ['soup']
 
 ## Ingredients
 
-- 4 tablespoons of olive oild
+- 4 tablespoons of olive oil
 - 2 medium-sized onions
 - 2 cloves of garlic
 - 400 grams leek (2 medium-sized)
